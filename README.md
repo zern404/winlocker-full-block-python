@@ -11,7 +11,7 @@
 <h3>Run bilder: python bilder.py</h3>
 <h3>Bild your winlocker! Use test mode for test</h3>
 <br>
-![](https://i.postimg.cc/VNWrvxRF/0302-Cover.jpg)
+<h1>https://i.postimg.cc/VNWrvxRF/0302-Cover.jpg</h1>
 <br>
 <h1>RU</h1>
 <h2>Автор данного кода не несет ответственности за его использование. Вы несете полную ответственность за то, где и как будете применять данный код. Код создан исключительно в образовательных целях!</h2>
